@@ -23,10 +23,10 @@ jobs:
     - name: Download domains
       run: |
         mkdir sources
-        curl -o sources/stopforumspam_domains.txt https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-        curl -o sources/disposable_email_blocklist.txt https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/master/disposable_email_blocklist.conf
-        curl -o sources/disposable_email_blocklist-2.txt https://disposable.github.io/disposable-email-domains/domains.txt
-        curl -o sources/disposable_email_blocklist-3.txt https://raw.githubusercontent.com/disposable/disposable-email-domains/master/domains.txt
+        curl -o sources/stopforumspam_domains.txt "${{ secrets.STOPFORUMSPAM_URL }}"
+        curl -o sources/disposable_email_blocklist.txt "${{ secrets.BLOCKLIST_URL_1 }}"
+        curl -o sources/disposable_email_blocklist-2.txt "${{ secrets.BLOCKLIST_URL_2 }}"
+        curl -o sources/disposable_email_blocklist-3.txt "${{ secrets.BLOCKLIST_URL_3 }}"
 
     - name: Merge files
       run: |
