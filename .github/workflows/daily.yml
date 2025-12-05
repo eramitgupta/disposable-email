@@ -38,8 +38,8 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
+        git config --local user.name "${{ secrets.GIT_USER_NAME }}"
         git add disposable_email.txt
         git commit -m 'chore:daily merge of disposable email'
         git pull --rebase origin main
