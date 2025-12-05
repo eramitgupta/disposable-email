@@ -1,3 +1,141 @@
+
+# Last Update: 2025-12-05T00:14:18.027Z
+# https://github.com/7c/fakefilter
+## 10minut.xyz
+## 10minutemail.com
+## 10minutemail.info
+## 10minutemail.net
+## 10minutemail.org
+## 10minutesemail.net
+## 1secmail.com
+## 22.do
+## 24hour.email
+## airmailbox.website
+## akmail.in
+## altaddress.org
+## altmails.com
+## anonbox.net
+## anonmails.de
+## anonymmail.net
+## another-temp-mail.com
+## byom.de
+## chacuo.net
+## cryptogmail.com
+## default.tmail.thehp.in
+## developermail.com
+## disposableemail.co
+## disposablemail.com
+## disposeamail.com
+## dispostable.com
+## dodsi.com
+## dropmail.me
+## easytrashmail.com
+## edumail.icu
+## email-fake.com
+## emailfake.com
+## emailnator.com
+## emailondeck.com
+## etempmail.com
+## etempmail.net
+## eyepaste.com
+## fakemail.net
+## fakemailgenerator.com
+## fakermail.com
+## faxmail.co
+## fex.plus
+## fyii.de
+## gecicimail.com.tr
+## generator.email
+## getnada.cc
+## getnada.com
+## gmailcity.com
+## gpa.lu
+## guerrillamail.com
+## harakirimail.com
+## haribu.net
+## hizli.email
+## instant-email.org
+## internxt.com
+## kopeechka.store
+## kuku.lu
+## linshi-email.com
+## linshiyou.com
+## linshiyouxiang.net
+## lroid.com
+## luxusmail.org
+## mail-temp.com
+## mail-tester.com
+## mail.gen.tr
+## mail.gw
+## mail.td
+## mail.tm
+## mail1.io
+## mail1a.de
+## mail4qa.com
+## mail7.io
+## mailcatch.com
+## maildim.com
+## mailinator.com
+## mailnesia.com
+## mailsac.com
+## mailswipe.net
+## minimail.eu.org
+## mintemail.com
+## minuteinbox.com
+## moakt.com
+## mohmal.com
+## muellmail.com
+## niepodam.pl
+## poo.email
+## sandvpn.com
+## shitmail.me
+## shitmail.org
+## snapmail.cc
+## spamdecoy.net
+## spamgourmet.com
+## spoofmail.de
+## static
+## temp-email.info
+## temp-inbox.com
+## temp-inbox.me
+## temp-mail.io
+## temp-mail.org
+## temp-mailbox.com
+## tempail.com
+## tempinbox.xyz
+## tempmail.adguard.com
+## tempmail.altmails.com
+## tempmail.cn
+## tempmail.io
+## tempmail.plus
+## tempmail.run
+## tempmailo.com
+## tempo-email.com
+## temporary-email.com
+## temporary-email.org
+## temporary-mail.net
+## temporarymail.com
+## tempr.email
+## temprmail.com
+## thnen.com
+## throwaway.io
+## tmail.gg
+## tmail.mmomekong.com
+## tmailor.com
+## tmailweb.com
+## trash-mail.com
+## trashmail.com
+## trashmail.de
+## trashmail.org
+## trashmail.ws
+## trashmails.com
+## tuamaeaquelaursa.com
+## txen.de
+## wegwerfemailadresse.com
+## yopmail.com
+## yopmail.fr
+## yopmail.net
+## youxiang.dev
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -7531,6 +7669,7 @@ aichou.org
 aiclbd.com
 aicogz.com
 aicomplete.com
+aicraft.agency
 aicts.com
 aicza.lol
 aiczcn.us
@@ -8675,6 +8814,7 @@ almostsa.online
 almresort-nassfeld.info
 almubaroktigaraksa.com
 alnewcar.co.uk
+alnhpay.site
 alnyus.com
 aloalo.store
 aloaloalo123.site
@@ -13067,6 +13207,7 @@ b66x4.anonbox.net
 b676jojn.buzz
 b67ht.anonbox.net
 b6avk.anonbox.net
+b6bpj.anonbox.net
 b6c4g.anonbox.net
 b6c7g.anonbox.net
 b6faz.anonbox.net
@@ -13139,6 +13280,7 @@ ba-s-tet.ru
 ba3iz.anonbox.net
 ba3nh.anonbox.net
 ba62.net
+ba76r.anonbox.net
 ba7hj.anonbox.net
 baalg.com
 baalism.info
@@ -13625,6 +13767,7 @@ bananmail.com
 banashbrand.com
 banateknoloji.com
 banbazaar.com
+banclonetiktok.com
 bancobit.com
 bancode.online
 band-freier.de
@@ -24372,6 +24515,7 @@ columbcasino.ru
 columbianagency.com
 columbus-edu.us
 columbuscheckcashers.com
+columbusedu.us
 columbuseldercare.com
 columbushn.us
 columbusnewstimes.com
@@ -26140,6 +26284,7 @@ csgomsk.info
 csgopowerplay.net
 csh.ro
 cshauthor.org
+cshn.us
 csht.team
 csi-miami.cf
 csi-miami.ga
@@ -42225,6 +42370,7 @@ gggt.de
 gghb.freeml.net
 gghfjjgt.com
 gghs-96.org
+gghs96.org
 gghs966r.org
 gglorytogod.com
 ggmaail.com
@@ -42267,6 +42413,7 @@ ghad.net
 ghamil.com
 ghan.com
 ghanalandbank.com
+ghastlier.com
 ghastlynursyahid.biz
 ghatefar.com
 ghatkhali.org
@@ -42646,6 +42793,7 @@ gjz.freeml.net
 gk-hs.us
 gk-konsult.ru
 gk32.ru
+gkhigh.us
 gkhs.us
 gkjeee.com
 gkku.com
@@ -50257,6 +50405,7 @@ imeil.tk
 imeit.com
 imelgeesa.my.id
 imelhouse.co
+imeng.store
 imenuvacoh.wiki
 imerys-indonesia.com
 imet.com
@@ -62347,6 +62496,7 @@ mail.achromaemail.ru
 mail.achromml.ru
 mail.acidimemails.ru
 mail.acname.com
+mail.acroscmail.ru
 mail.adenemail.ru
 mail.adstam.com
 mail.aersm.com
@@ -62362,6 +62512,8 @@ mail.albarulo.com
 mail.alexiphamails.ru
 mail.alibrs.com
 mail.alisaol.com
+mail.alkalmail.ru
+mail.allegmail.ru
 mail.allegorimail.ru
 mail.allemail.ru
 mail.allionmail.ru
@@ -62451,6 +62603,7 @@ mail.cetnob.com
 mail.cgbird.com
 mail.chatfunny.com
 mail.checkermaker.me
+mail.chemoprophymail.ru
 mail.cht.pm
 mail.chysir.com
 mail.cmheia.com
@@ -62677,6 +62830,7 @@ mail.otemdi.com
 mail.oyu.kr
 mail.parclan.com
 mail.partskyline.com
+mail.phoeniml.ru
 mail.phonocardml.ru
 mail.physiognoml.ru
 mail.piaa.me
@@ -62737,6 +62891,7 @@ mail.strategyinsights.xyz
 mail.subindicoml.ru
 mail.sunyds.com
 mail.supererml.ru
+mail.superparml.ru
 mail.supersml.ru
 mail.superterrml.ru
 mail.svenz.eu
@@ -65761,6 +65916,7 @@ meethornygirls.top
 meetime.my.id
 meetingid.web.id
 meetingpoint-point.com
+meetingtech.biz.id
 meetlocalhorny.top
 meetmail.me
 meetmeatthebar.com
@@ -68283,6 +68439,7 @@ mos-kwa.ru
 mosaidus.pro
 mosaimail.com
 moscow-nedv.ru
+moscowfocus.ru
 moscowmail.ru
 mosel.travel
 mosertelor.ga
@@ -69874,6 +70031,7 @@ myrandomthoughts.info
 myraybansunglasses-sale.com
 myreal-tpro.com
 myrealporncom.com
+myrecovery.casa
 myredirect.info
 myredwoodcitycahome.com
 myreferralconnection.com
@@ -75122,6 +75280,7 @@ oovk.store
 oovy.org
 ooxygenn.site
 ooxygenn.tech
+op.xn--yaho-sqa.com
 opa.spymail.one
 opakenak.com
 opalroom.com
@@ -83276,6 +83435,7 @@ raimuwedos.ga
 raimuwedos.gq
 raimuwedos.ml
 rain.laohost.net
+rain.network
 rainbowchildrensacademy.com
 rainbowdelco.com
 rainbowflowersaz.com
@@ -86368,6 +86528,7 @@ rsfdgtv4664.gq
 rsfdgtv4664.ml
 rsfdgtv4664.tk
 rshagor.xyz
+rsi.ae
 rsibanjarmasin.com
 rsjp.tk
 rsma.de
@@ -99301,6 +99462,7 @@ totallynotfake.net
 totallypianos.com
 totalmail.de
 totalnetve.ml
+totalplay.net
 totalpoolservice.com
 totalvista.com
 totalwirelessrefill.com
@@ -101949,6 +102111,7 @@ unbelievamy.com
 unbelimail.com
 unbiex.com
 unblockedgamesrun.com
+uncamphomil.ru
 uncensored.rf.gd
 uncensoredsurvival.com
 uncermail.com
@@ -106529,6 +106692,7 @@ wedoseoforlawyers.com
 wedus.xyz
 wee.my
 wee.pl
+weebd.de
 weebers.xyz
 weebsites.com
 weebsterboi.com
@@ -112722,5 +112886,5 @@ zzzle.anonbox.net
 zzzmail.pl
 zzzz1717.com
 zzzzzzzzzzzzz.com
+zzzzzzzzzzzzz.com# Fake and Temp Mail Providers
 zzzzzzzzzzzzz.com0-00.usa.cc
-zzzzzzzzzzzzz.com0-mail.com
