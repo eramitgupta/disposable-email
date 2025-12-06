@@ -1,20 +1,20 @@
 
 name: Merge Disposable Email Domains Blocklist
 
-# Controls when the workflow will run
+
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight UTC
-  workflow_dispatch: # Allows manual triggering of the workflow
+  workflow_dispatch: 
 
 
 jobs:
-  # This workflow contains a one job
+ 
   main:
     runs-on: ubuntu-latest
-    # Job-level permissions configuration starts here
+  
     permissions:                
-      contents: write           # 'write' access to repository contents
+      contents: write        
 
     steps:
     - name: Checkout repository
@@ -36,12 +36,19 @@ jobs:
       run: |
         sort daily_email_blocklist.txt | uniq > disposable_email.txt
 
+    - name: Generate JSON file from TXT
+      run: |
+        echo "[" > disposable_email.json
+        awk '{print "  \"" $0 "\","}' disposable_email.txt >> disposable_email.json
+        sed -i '$ s/,$//' disposable_email.json   # Remove last comma
+        echo "]" >> disposable_email.json
+
     - name: Commit changes
       run: |
         git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
         git config --local user.name "${{ secrets.GIT_USER_NAME }}"
-        git add disposable_email.txt
-        git commit -m 'chore:daily merge of disposable email'
+        git add disposable_email.txt disposable_email.json
+        git commit -m 'chore: daily merge of disposable email blocklist' || echo "No changes to commit"
         git pull --rebase origin main
     - name: Push changes
       uses: ad-m/github-push-action@master
