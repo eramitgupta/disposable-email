@@ -51,6 +51,16 @@ guerrillamail.com
 
 ---
 
+## 📦 Laravel Users
+
+If you need a ready-to-use Laravel package for this blocklist, check this:
+
+👉 laravel-disposable-email
+[https://github.com/eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email)
+
+---
+
+
 ## 🚀 Use Cases
 
 You can use this blocklist in **any backend, API, or validation workflow**.
