@@ -51,7 +51,7 @@ guerrillamail.com
 
 ---
 
-## 📦 Laravel Users
+## 📦 Laravel Developers 
 
 If you need a ready-to-use Laravel package for this blocklist, check this:
 
