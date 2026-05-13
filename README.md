@@ -4,7 +4,7 @@ A regularly maintained and **clean list of disposable (temporary) email domains*
 
 This repository aggregates multiple trusted open-source sources into one **normalized, duplicate-free** blocklist.
 
-Already contains **110,646+ disposable email domains! 🔥**
+Already contains **110,880+ disposable email domains! 🔥**
 This list is **updated automatically every day** using GitHub Actions.
 
 ---
