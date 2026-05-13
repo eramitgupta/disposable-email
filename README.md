@@ -79,6 +79,10 @@ This ensures:
 * No manual maintenance
 * Consistent accuracy
 
+Manual additions that must survive the daily rebuild should be added to
+`manual_domains.txt`. The workflow merges that file with the downloaded sources
+before regenerating `disposable_email.txt` and `disposable_email.json`.
+
 ---
 
 ## 🤝 Contributing

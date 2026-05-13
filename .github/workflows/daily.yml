@@ -22,7 +22,7 @@ jobs:
 
     - name: Download domains
       run: |
-        mkdir sources
+        mkdir -p sources
         curl -o sources/stopforumspam_domains.txt "${{ secrets.STOPFORUMSPAM_URL }}"
         curl -o sources/disposable_email_blocklist.txt "${{ secrets.BLOCKLIST_URL_1 }}"
         curl -o sources/disposable_email_blocklist-2.txt "${{ secrets.BLOCKLIST_URL_2 }}"
@@ -30,7 +30,7 @@ jobs:
 
     - name: Merge files
       run: |
-        cat sources/*.txt > daily_email_blocklist.txt
+        cat manual_domains.txt sources/*.txt > daily_email_blocklist.txt
   
     - name: Remove duplicate lines
       run: |
