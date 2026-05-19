@@ -1,1 +1,2 @@
 0mail.app
+mailwave.dev
