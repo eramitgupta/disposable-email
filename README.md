@@ -69,6 +69,39 @@ You can use this blocklist in **any backend, API, or validation workflow**.
 
 ---
 
+# 🚀 Laravel Package
+
+Looking for a ready-to-use Laravel solution?
+
+Use **erag/laravel-disposable-email**, built on top of this blocklist to detect and block disposable email addresses with powerful validation and runtime features.
+
+### Features
+
+- ✅ 110,880+ disposable domains
+- ✅ Laravel Validation Rule
+- ✅ Runtime Email Detection
+- ✅ Helper & Facade Support
+- ✅ Custom Blacklist & Whitelist
+- ✅ Automatic Domain Sync
+- ✅ Caching Support
+- ✅ Blade Directives
+- ✅ Domain Statistics
+- ✅ Laravel 10, 11, 12 & 13
+
+### Install
+
+```bash
+composer require erag/laravel-disposable-email
+```
+
+### Resources
+
+- 📦 Package: https://github.com/eramitgupta/laravel-disposable-email
+- 📖 Documentation: https://erag.in/laravel-disposable-email/
+- 📦 Packagist: https://packagist.org/packages/erag/laravel-disposable-email
+
+> This repository provides the disposable email domain list, while the Laravel package offers validation rules, runtime detection, caching, synchronization, and developer-friendly APIs.
+
 ## 🔄 Automatic Updates
 
 The list is **automatically rebuilt and committed daily** using GitHub Actions.
